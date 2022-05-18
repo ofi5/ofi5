@@ -1,4 +1,4 @@
-<div align="center" border-radius="5%">
+<div align="center">
   <img src="https://media.giphy.com/media/9Pmfi0HtSpGSiuB991/giphy.gif" width="300" height="242" frameBorder="0" class="giphy-embed">
   </div>
 
@@ -26,6 +26,8 @@ Hi there 👋
 </div>  
 
 ---
+
+🚧My stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ofi5&theme=dark&background=000000)](https://git.io/streak-stats)
 
