@@ -33,7 +33,7 @@ Hi there 👋
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ofi5&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ofi5&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ofi5&layout=compact&theme=vision-friendly-dark&ENV=Pat_1)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
