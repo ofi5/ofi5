@@ -9,7 +9,7 @@ Hi there 👋
  
 🧑‍💻 About me:
 
-🔭 Civil Engineer switching to Web Development.<br>
+🔭 Web Development.<br>
 🌱 I am currently learning Front End Development.<br>
 </div>
 
