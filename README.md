@@ -10,7 +10,7 @@ Hi there 👋
 🧑‍💻 About me:
 
 🔭 Web Development.<br>
-🌱 I am currently learning Front End Development.<br>
+🌱 Full Stack.<br>
 </div>
 
 
