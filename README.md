@@ -4,19 +4,40 @@
   
  
 
-<div align="center">
-Hi there 👋
- 
-🧑‍💻 About me:
+<div align="left">
+<h2 align="center">👋 Hi, I’m Aafaque Rasheed</h2>&nbsp;
 
-🔭 Web Development.<br>
-🌱 Full Stack.<br>
+
+ I am a passionate Full-Stack Developer with hands-on experience building scalable applications, ranging from Angular and React Native UIs to Flask and NestJS backends, with deployments on AWS and dashboards in Streamlit.
+
+My current focus areas include:
+
+🌐 Full-Stack Web & Mobile Development (Angular, React, Flutter, Node.js, NestJS, Flask, Express)
+
+☁️ Cloud & DevOps (AWS, CI/CD, Docker, Terraform)
+
+🤖 Machine Learning & GenAI (LangChain, LLMs, RAG, Prompt Engineering)
+
+📊 Data Engineering & Analytics (MongoDB, PostgreSQL, Big Data, Streamlit Dashboards)
+
+I’m always eager to take on new challenges, open-source contributions, and collaborative projects where I can grow as a developer and deliver real-world impact.
+
 </div>
+
+📫 Reach me here:
+
+📧 Email: axr230013@utdallas.edu
+
+<a href="https://www.linkedin.com/in/aafaque-rasheed/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://aafaque.netlify.app/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
+  </a>
 
 
 --- 
-
-
+  
 🛠️ Languages and tools:<br>
 
   
@@ -62,7 +83,6 @@ Hi there 👋
 🖐️My stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ofi5&theme=dark&background=000000)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ofi5&layout=compact&theme=vision-friendly-dark&ENV=Pat_1)](https://github.com/anuraghazra/github-readme-stats)
 
 
